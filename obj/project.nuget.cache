@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bWhI0TsXaO+JDq7RcVKD9h2quxKx4kVlr3/Gq3j0SD131o9aZ2851NEdzYJLw5uiTAvpGItAS7NmpsJ56lYuRg==",
+  "success": true,
+  "projectFilePath": "D:\\Área de Trabalho\\Projetos\\DIO.Series\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luis_Carla\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
